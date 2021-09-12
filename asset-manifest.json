@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/jackbox-picker/static/css/main.867ba02b.chunk.css",
-    "main.js": "/jackbox-picker/static/js/main.796e0700.chunk.js",
-    "main.js.map": "/jackbox-picker/static/js/main.796e0700.chunk.js.map",
+    "main.js": "/jackbox-picker/static/js/main.13f4287a.chunk.js",
+    "main.js.map": "/jackbox-picker/static/js/main.13f4287a.chunk.js.map",
     "runtime-main.js": "/jackbox-picker/static/js/runtime-main.6a957121.js",
     "runtime-main.js.map": "/jackbox-picker/static/js/runtime-main.6a957121.js.map",
     "static/css/2.de424728.chunk.css": "/jackbox-picker/static/css/2.de424728.chunk.css",
-    "static/js/2.3eabe853.chunk.js": "/jackbox-picker/static/js/2.3eabe853.chunk.js",
-    "static/js/2.3eabe853.chunk.js.map": "/jackbox-picker/static/js/2.3eabe853.chunk.js.map",
+    "static/js/2.037ca67b.chunk.js": "/jackbox-picker/static/js/2.037ca67b.chunk.js",
+    "static/js/2.037ca67b.chunk.js.map": "/jackbox-picker/static/js/2.037ca67b.chunk.js.map",
     "index.html": "/jackbox-picker/index.html",
-    "precache-manifest.6678d7a9a4c6d78f79052bd920f20834.js": "/jackbox-picker/precache-manifest.6678d7a9a4c6d78f79052bd920f20834.js",
+    "precache-manifest.75d3b44fce323147aa94c66e9f10d96a.js": "/jackbox-picker/precache-manifest.75d3b44fce323147aa94c66e9f10d96a.js",
     "service-worker.js": "/jackbox-picker/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/jackbox-picker/static/css/2.de424728.chunk.css.map",
     "static/css/main.867ba02b.chunk.css.map": "/jackbox-picker/static/css/main.867ba02b.chunk.css.map",
-    "static/js/2.3eabe853.chunk.js.LICENSE.txt": "/jackbox-picker/static/js/2.3eabe853.chunk.js.LICENSE.txt",
+    "static/js/2.037ca67b.chunk.js.LICENSE.txt": "/jackbox-picker/static/js/2.037ca67b.chunk.js.LICENSE.txt",
     "static/media/blather.webp": "/jackbox-picker/static/media/blather.2ad10486.webp",
     "static/media/champd.webp": "/jackbox-picker/static/media/champd.b00b91ff.webp",
     "static/media/civic.jpg": "/jackbox-picker/static/media/civic.340ae1f7.jpg",
@@ -34,8 +34,8 @@
   "entrypoints": [
     "static/js/runtime-main.6a957121.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.3eabe853.chunk.js",
+    "static/js/2.037ca67b.chunk.js",
     "static/css/main.867ba02b.chunk.css",
-    "static/js/main.796e0700.chunk.js"
+    "static/js/main.13f4287a.chunk.js"
   ]
 }
