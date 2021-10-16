@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ed8a386f6d67ba67b7aedddff7fdfd7f",
+    "revision": "22e17515bea41ea2ba264408a07bb826",
     "url": "/jackbox-picker/index.html"
   },
   {
-    "revision": "a993dd8dd754d32439b1",
+    "revision": "ae9814228323a0d0fe33",
     "url": "/jackbox-picker/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "57d9451d0f09e5df5307",
+    "revision": "c1c1a72ec4ca8af5940f",
     "url": "/jackbox-picker/static/css/main.867ba02b.chunk.css"
   },
   {
-    "revision": "a993dd8dd754d32439b1",
-    "url": "/jackbox-picker/static/js/2.037ca67b.chunk.js"
+    "revision": "ae9814228323a0d0fe33",
+    "url": "/jackbox-picker/static/js/2.3722fd1d.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/jackbox-picker/static/js/2.037ca67b.chunk.js.LICENSE.txt"
+    "url": "/jackbox-picker/static/js/2.3722fd1d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "57d9451d0f09e5df5307",
-    "url": "/jackbox-picker/static/js/main.13f4287a.chunk.js"
+    "revision": "c1c1a72ec4ca8af5940f",
+    "url": "/jackbox-picker/static/js/main.0b0492ac.chunk.js"
   },
   {
     "revision": "12c6ece6bb5a63e19546",
@@ -48,12 +48,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jackbox-picker/static/media/drawful2.3b85f4d1.jpg"
   },
   {
+    "revision": "19ca91935ab4ae13a078e952fa95ba15",
+    "url": "/jackbox-picker/static/media/drawful_animate.19ca9193.webp"
+  },
+  {
     "revision": "14dcba03cd82641f4b4b8a203c732aab",
     "url": "/jackbox-picker/static/media/fibbage3.14dcba03.png"
   },
   {
     "revision": "1418e13233461dc273c4230c9e6b160f",
     "url": "/jackbox-picker/static/media/guess.1418e132.jpg"
+  },
+  {
+    "revision": "3a51b268ec23a7acce7d4467a7f5a3ef",
+    "url": "/jackbox-picker/static/media/jobjob.3a51b268.webp"
   },
   {
     "revision": "b81f888b0b81f9094847d91527aba403",
@@ -72,6 +80,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jackbox-picker/static/media/patently.1fbdaae9.png"
   },
   {
+    "revision": "0cabd54fa83293ea49e5efa5f920d06e",
+    "url": "/jackbox-picker/static/media/poll_mine.0cabd54f.webp"
+  },
+  {
     "revision": "767f89f968e3a385bec7892c905a2db9",
     "url": "/jackbox-picker/static/media/quiplash3.767f89f9.webp"
   },
@@ -86,6 +98,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ae47f7d6ddd51e6d7c2686087d8fe8c5",
     "url": "/jackbox-picker/static/media/teeko.ae47f7d6.jpg"
+  },
+  {
+    "revision": "b6084188887f1125c0fbe444c3c94284",
+    "url": "/jackbox-picker/static/media/weapons_drawn.b6084188.webp"
+  },
+  {
+    "revision": "e1c61a40ec7d9deb20fd865851750bcc",
+    "url": "/jackbox-picker/static/media/wheel.e1c61a40.webp"
   },
   {
     "revision": "0c63bcd386dc94c825337a2070dcc049",

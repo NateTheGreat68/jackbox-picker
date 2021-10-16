@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/jackbox-picker/precache-manifest.75d3b44fce323147aa94c66e9f10d96a.js"
+  "/jackbox-picker/precache-manifest.87fc9c8593e00d80607737b787f64625.js"
 );
 
 self.addEventListener('message', (event) => {
